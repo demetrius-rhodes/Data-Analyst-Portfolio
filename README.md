@@ -7,8 +7,12 @@ ___
 
 ## Course 1 - Python for Data Science: Fundamentals
 ##### [Certificate](https://app.dataquest.io/view_cert/4N0T8L65JBP0QQMUOQ9P/)
-* The fundamentals of programming in Python
-* The fundamentals of data science
-* How to use jupyter Notebook
-* How to build a portfolio
+* Variable and Data Types
+* Lists and For Loops
+* Conditional Statments
+* Dictionairies and Frequency Tables
+* Functions: Fundamentals
+* Functions: Intermediate
+### Project
+___
 

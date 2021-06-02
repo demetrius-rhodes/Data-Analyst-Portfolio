@@ -28,3 +28,17 @@ ___
 Hacker News is a site started by the startup incubator Y Combinator, where user-submitted stories (known as "posts") are voted and commented upon, similar to reddit. Hacker News is extremely popular in technology and startup circles, and posts that make it to the top of Hacker News' listings can get hundreds of thousands of visitors as a result.
 
 In this project, the two types of user-submitted stories (known as "posts") will be compared. The two posts that will be compared are the Ask HN and the Show HN posts. Ask HN post are submitted by users to ask the Hacker News community a specific question. Show HN posts are submitted by user and show the Hacker News community a project, product, or generally something interesting.
+
+## Course 3 - Pandas and NumPy Fundamentals
+##### [Certificate](https://app.dataquest.io/view_cert/F9LLKJJ3XR8SKRIYPVSK/)
+* Introduction to NumPy
+* Boolean Indexing with NumPy
+* Introduction to pandas
+* Exploring Data with pandas: Fundamentals
+* Exploring Data with pandas: Intermediate
+* Data Cleaning Basics
+### Project: Exploring eBay Car Sales Data
+___
+This data set is from a section of the German ebay website on used cars from eBay Kleinanzeigen. The project will look at what are the top brands sold.
+
+

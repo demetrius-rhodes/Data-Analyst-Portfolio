@@ -24,6 +24,7 @@ Two data sets were given. The first data set contained approximetly 10,000 Andro
 * Object-Oriented Python
 * Working with Dates and Times in Python
 ### Project: Exploring Hacker News Posts
+___
 Hacker News is a site started by the startup incubator Y Combinator, where user-submitted stories (known as "posts") are voted and commented upon, similar to reddit. Hacker News is extremely popular in technology and startup circles, and posts that make it to the top of Hacker News' listings can get hundreds of thousands of visitors as a result.
 
 In this project, the two types of user-submitted stories (known as "posts") will be compared. The two posts that will be compared are the Ask HN and the Show HN posts. Ask HN post are submitted by users to ask the Hacker News community a specific question. Show HN posts are submitted by user and show the Hacker News community a project, product, or generally something interesting.

@@ -1,4 +1,4 @@
-# Data-Analystics-Projects
+# Data-Analytics-Projects
 ___
 
 #### This repository is mainly for projects I have done uing DataQuest and also projects I have done outside of the couse.

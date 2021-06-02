@@ -13,6 +13,6 @@ ___
 * Dictionairies and Frequency Tables
 * Functions: Fundamentals
 * Functions: Intermediate
-### Project
+### Project: Profitable App Profiles for the App Store and Google Play Markets
 ___
-
+Two data sets were given. The first data set contained approximetly 10,000 Android apps from Google Play; the data was collected in August 2018. The second data set contained approximately 7,000 iOS apps from the App Store; the data was collected in July 2017. The goal of the project was to help developers figure out which applications attract more users.

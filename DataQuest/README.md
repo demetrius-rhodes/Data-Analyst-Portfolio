@@ -38,3 +38,54 @@ In this project, the two types of user-submitted stories (known as "posts") will
 ### Project: Exploring eBay Car Sales Data
 ___
 This data set is from a section of the German ebay website on used cars from eBay Kleinanzeigen. The project will look at what are the top brands sold.
+
+## Course 4 - Data Visualization Fundamentals
+##### [Certificate](https://app.dataquest.io/view_cert/VXNY6P7M3T1TKVSP7G62/)
+* Line Graphs and Time Series
+* Scatter Plots and Correlations
+* Bar Plots, Histograms, and Distributions
+* Pandas Visualizations and Grid charts
+* Relational Plots and Multiple Variables
+
+## Course 5 - Storytelling Data Visualization and Information Design
+##### [Certificate](https://app.dataquest.io/view_cert/NUI361PYHFQQHNSOQXZF/)
+* Design for an Audience
+* Storytelling Data Visualization
+* Getstalt Principles and Pre-Attentive Attributes
+* Matplotlin Styles: FiveThirtyEight Case Study
+
+## Course 6 - Data Cleaning and Analysis
+##### [Certificate](https://app.dataquest.io/view_cert/I5S8PREHECAHMUGFB996/)
+* Data Aggregation
+* Combining Data with Pandas
+* Transforming Data with Pandas
+* Wokring With String In Pandas
+* Working With Missing and Duplicate Data
+
+## Course 7 - Data Cleaning in Python: Advanced
+##### [Certificate](https://app.dataquest.io/view_cert/D61HBBI7ZZ7QYYU5NKY2/)
+* Regular Expression Basics
+* Advanced Regular Expressions
+* List Comprehensions and Lambda Functions
+* Working With Missing Data
+
+## Course 8 - Data Cleaning Project Walkthrough
+##### [Certificate](https://app.dataquest.io/view_cert/6YZN61DYNSY2TAJ5CYUZ/)
+* Data Cleaning Walkthrough
+* Data Cleaning Walkthrough: Combining the Data
+* Data Cleaning Walkthrough: Analyzing and Visualizing the Data
+
+## Course 9 - SQL Fundamentals
+##### [Certificate](https://app.dataquest.io/view_cert/TDJOR1ZEETJ4TNHVG4PI/)
+* Introduction to SQL
+* Summary Statistics
+* Group Summary Statistics
+* Subqueries
+
+## Course 10 - Intermediate SQL for Data Analysis
+##### [Certificate](https://app.dataquest.io/view_cert/TDJOR1ZEETJ4TNHVG4PI/)
+* Joining Data in SQL
+* Intermediate Joins in SQL
+* Building and Organizing Complex Queries
+* Table Relations and Normalization
+* Querying SQLite from Python

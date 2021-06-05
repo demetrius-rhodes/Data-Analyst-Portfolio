@@ -62,14 +62,6 @@ This data set is from a section of the German ebay website on used cars from eBa
 * Wokring With String In Pandas
 * Working With Missing and Duplicate Data
 
-### Project: Clean and Analyze Employee Exit Surveys
-___
-This project analyszes exit surveys from the [Department og Education, Training and Employement (DETE)](https://en.wikipedia.org/wiki/Department_of_Education_and_Training_(Queensland)) and the Techincal and Further Education (TAFE) institue in Queensland, Australia. The TAFE exit survey can be found [here](https://data.gov.au/dataset/ds-qld-89970a3b-182b-41ea-aea2-6f9f17b5907e/details?q=exit%20survey) and the DETE survey [here](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey).
-
-The goal is to pretend the stakeholders want to know the following questions:
-* Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
-* Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
-
 ## Course 7 - Data Cleaning in Python: Advanced
 ##### [Certificate](https://app.dataquest.io/view_cert/D61HBBI7ZZ7QYYU5NKY2/)
 * Regular Expression Basics

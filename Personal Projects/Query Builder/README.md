@@ -1,1 +1,3 @@
 # Query Builder Project
+
+When a report is scheduled on the BI platform, recipient(s) must be entered. The following information is stored when a report is scheduled: report name, description, subject, mail address, cc, and bcc. The information can be queried and is stored in a very messy data format in excel. The purpose of this project is to do a strategic cleaning to extract all the report information and store it into a uniform table. The **querybuilder.xlsx** contains the uncleaned data that will be used in the project. The **QueryBuilder_cleaned.xlsx** is the file the cleaned dataframe is stored in after the script runs.

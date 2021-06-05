@@ -1,1 +1,1 @@
-# Guided Projects: Analyzing NYC High School Data & Star Wars Survey
+# Guided Project: Analyzing NYC High School Data

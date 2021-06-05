@@ -89,9 +89,6 @@ This propject analyzes data on Star Wars movies.
 * Summary Statistics
 * Group Summary Statistics
 * Subqueries
-### Project: Analyzing CIA Factbook Data Using SQL
-___
-This project will analyze data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. 
 
 ## Course 10 - Intermediate SQL for Data Analysis
 ##### [Certificate](https://app.dataquest.io/view_cert/TDJOR1ZEETJ4TNHVG4PI/)

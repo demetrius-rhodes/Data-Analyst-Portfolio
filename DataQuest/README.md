@@ -83,11 +83,11 @@ The goal is to pretend the stakeholders want to know the following questions:
 * Data Cleaning Walkthrough: Combining the Data
 * Data Cleaning Walkthrough: Analyzing and Visualizing the Data
 
-## Project 1:  Analyzing NYC High School Data
+### Project 1:  Analyzing NYC High School Data
 ___
 The goal of the project is to see the different factors that effect SAT scores. Safety, Race, Gender, and AP scaroes are compared to see how they correlate.
 
-## Project 2: Star Wars Survey
+### Project 2: Star Wars Survey
 ___
 This propject analyzes data on Star Wars movies.
 

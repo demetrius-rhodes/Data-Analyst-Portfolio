@@ -62,6 +62,14 @@ This data set is from a section of the German ebay website on used cars from eBa
 * Wokring With String In Pandas
 * Working With Missing and Duplicate Data
 
+### Project: Clean and Analyze Employee Exit Surveys
+___
+This project analyszes exit surveys from the [Department og Education, Training and Employement (DETE)](https://en.wikipedia.org/wiki/Department_of_Education_and_Training_(Queensland)) and the Techincal and Further Education (TAFE) institue in Queensland, Australia. The TAFE exit survey can be found [here](https://data.gov.au/dataset/ds-qld-89970a3b-182b-41ea-aea2-6f9f17b5907e/details?q=exit%20survey) and the DETE survey [here](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey).
+
+The goal is to pretend the stakeholders want to know the following questions:
+* Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+* Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
 ## Course 7 - Data Cleaning in Python: Advanced
 ##### [Certificate](https://app.dataquest.io/view_cert/D61HBBI7ZZ7QYYU5NKY2/)
 * Regular Expression Basics
@@ -75,12 +83,23 @@ This data set is from a section of the German ebay website on used cars from eBa
 * Data Cleaning Walkthrough: Combining the Data
 * Data Cleaning Walkthrough: Analyzing and Visualizing the Data
 
+## Project 1:  Analyzing NYC High School Data
+___
+The goal of the project is to see the different factors that effect SAT scores. Safety, Race, Gender, and AP scaroes are compared to see how they correlate.
+
+## Project 2: Star Wars Survey
+___
+This propject analyzes data on Star Wars movies.
+
 ## Course 9 - SQL Fundamentals
 ##### [Certificate](https://app.dataquest.io/view_cert/TDJOR1ZEETJ4TNHVG4PI/)
 * Introduction to SQL
 * Summary Statistics
 * Group Summary Statistics
 * Subqueries
+### Project: Analyzing CIA Factbook Data Using SQL
+___
+This project will analyze data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. 
 
 ## Course 10 - Intermediate SQL for Data Analysis
 ##### [Certificate](https://app.dataquest.io/view_cert/TDJOR1ZEETJ4TNHVG4PI/)
@@ -89,3 +108,6 @@ This data set is from a section of the German ebay website on used cars from eBa
 * Building and Organizing Complex Queries
 * Table Relations and Normalization
 * Querying SQLite from Python
+### Project: Answering Business Questions Using SQL
+___
+This project analyzes sales data to find the most purchased tracks.
